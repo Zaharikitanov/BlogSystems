@@ -12,3 +12,17 @@ c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Models\b
 c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Models\obj\Debug\BlogSystem.Models.csprojResolveAssemblyReference.cache
 c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Models\obj\Debug\BlogSystem.Models.dll
 c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Models\obj\Debug\BlogSystem.Models.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\BlogSystem\BlogSystems\BlogSystem.Models\bin\Debug\BlogSystem.Models.dll.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\BlogSystem\BlogSystems\BlogSystem.Models\bin\Debug\BlogSystem.Models.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\BlogSystem\BlogSystems\BlogSystem.Models\bin\Debug\BlogSystem.Models.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\BlogSystem\BlogSystems\BlogSystem.Models\bin\Debug\EntityFramework.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\BlogSystem\BlogSystems\BlogSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\BlogSystem\BlogSystems\BlogSystem.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\BlogSystem\BlogSystems\BlogSystem.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\BlogSystem\BlogSystems\BlogSystem.Models\bin\Debug\EntityFramework.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\BlogSystem\BlogSystems\BlogSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\BlogSystem\BlogSystems\BlogSystem.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\BlogSystem\BlogSystems\BlogSystem.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\BlogSystem\BlogSystems\BlogSystem.Models\obj\Debug\BlogSystem.Models.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\BlogSystem\BlogSystems\BlogSystem.Models\obj\Debug\BlogSystem.Models.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\BlogSystem\BlogSystems\BlogSystem.Models\obj\Debug\BlogSystem.Models.pdb

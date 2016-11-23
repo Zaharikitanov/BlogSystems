@@ -1,22 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Web;
 
-namespace BlogSystem.Models
+namespace BlogSystem.ViewModels
 {
-    public class Post
+    public class PostViewModel
     {
-        public int Id { get; set; }
+        [Required]
         public string Name { get; set; }
-
         public string Content { get; set; }
-
+        public string UserName { get; set; }
         public DateTime DateCreated { get; set; }
-
-        public virtual ApplicationUser User { get; set; }
-
-
     }
 }

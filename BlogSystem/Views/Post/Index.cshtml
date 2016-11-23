@@ -1,0 +1,11 @@
+﻿@model  IEnumerable<PostViewModel>
+
+@foreach (var post in Model)
+{
+    <div class="jumbotron">
+        <h1 class="text-center">@post.Name</h1>
+        <p>@post.Content</p>
+        <div>@post.DateCreated</div>
+        <div>@post.UserName</div>
+    </div>
+}
