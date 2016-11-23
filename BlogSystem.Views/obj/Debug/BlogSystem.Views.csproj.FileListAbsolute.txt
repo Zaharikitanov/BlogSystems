@@ -1,0 +1,14 @@
+c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Views\bin\Debug\BlogSystem.Views.dll.config
+c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Views\bin\Debug\BlogSystem.Views.dll
+c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Views\bin\Debug\BlogSystem.Views.pdb
+c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Views\bin\Debug\EntityFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Views\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Views\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Views\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Views\bin\Debug\EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Views\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Views\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Views\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Views\obj\Debug\BlogSystem.Views.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Views\obj\Debug\BlogSystem.Views.dll
+c:\users\pc\documents\visual studio 2015\Projects\BlogSystem\BlogSystem.Views\obj\Debug\BlogSystem.Views.pdb
